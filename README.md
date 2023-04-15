@@ -16,3 +16,8 @@
 
 6. Собрать проект и запустить mvn test.
 
+![image](https://user-images.githubusercontent.com/127390983/232250194-3b899a5a-12a2-4a55-aadf-3f183809dbe4.png)
+
+![image](https://user-images.githubusercontent.com/127390983/232250213-9faec80a-a6df-4b46-920d-3966da2482a2.png)
+
+
