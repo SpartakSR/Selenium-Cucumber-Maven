@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: RunnerTest1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.421 s <<< FAILURE! - in RunnerTest1
+�������� ������������.Calculating by the parameters of the three sides  Time elapsed: 7.166 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step '������� ��� ���������' is undefined.
+You can implement this step using the snippet(s) below:
+
+@When("������� ��� ���������")
+public void () {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
